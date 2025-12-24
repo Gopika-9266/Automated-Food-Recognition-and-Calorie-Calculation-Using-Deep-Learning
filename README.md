@@ -3,14 +3,14 @@
 ## 📌 Overview
 This project implements a deep learning–based system to automatically recognize food items from images and estimate their calorie values. It reduces manual calorie tracking and improves dietary monitoring accuracy.
 
----
+
 
 ## 🎯 Objectives
 - Detect food items from images
 - Estimate calorie values using a nutrition database
 - Automate dietary tracking
 
----
+
 
 ## 🧠 Technologies Used
 - Python  
@@ -18,7 +18,6 @@ This project implements a deep learning–based system to automatically recogniz
 - TensorFlow / PyTorch  
 - OpenCV  
 
----
 
 ## 🔄 Methodology
 1. Collect food images from Food-101 and UECFood-256 datasets  
@@ -27,14 +26,12 @@ This project implements a deep learning–based system to automatically recogniz
 4. Map detected food items to calorie values  
 5. Display estimated calories  
 
----
 
 ## 📊 Results
 - Accuracy: **90–93%**
 - EfficientNet shows better performance
 - Works well for clear food images
 
----
 
 ## 🖼️ Output Screens
 
@@ -50,19 +47,17 @@ This project implements a deep learning–based system to automatically recogniz
 <img width="521" height="354" alt="image" src="https://github.com/user-attachments/assets/153fe2e2-f0b8-4f38-8aa2-19e467c72e82" />
 
 
----
 
 ## ✅ Conclusion
 The system successfully automates food recognition and calorie estimation, making dietary tracking efficient and user-friendly.
 
----
+
 
 ## 🔮 Future Enhancements
 - Improved portion-size estimation
 - Support for mixed dishes
 - Mobile app deployment
 
----
 
 ## 📦 Requirements
 ```txt
